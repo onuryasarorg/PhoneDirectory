@@ -1,0 +1,15 @@
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/bin/Debug/net6.0/Contact.Consumer
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/bin/Debug/net6.0/Contact.Consumer.deps.json
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/bin/Debug/net6.0/Contact.Consumer.runtimeconfig.json
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/bin/Debug/net6.0/Contact.Consumer.dll
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/bin/Debug/net6.0/Contact.Consumer.pdb
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.csproj.AssemblyReference.cache
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.AssemblyInfoInputs.cache
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.AssemblyInfo.cs
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.csproj.CoreCompileInputs.cache
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.dll
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/refint/Contact.Consumer.dll
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.pdb
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/Contact.Consumer.genruntimeconfig.cache
+/Users/onuryasar/projects/PhoneDirectory/application/Contact.Consumer/obj/Debug/net6.0/ref/Contact.Consumer.dll
